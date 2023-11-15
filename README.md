@@ -1,10 +1,5 @@
 - 👋 Ola, Eu sou @Woof__Allone
-- 👀 Eu Tenho Interesse em : PHP, CSS, MYSQL, HTML, DELPHI
-- 🌱 Atualmente estou aprendendo : PHP, CSS, HTML, MYSQL, SQL DELPHI
-- 💞️ Procuro Colaborar em : Tudo que eu estou estudando .....
-- 📫 Como Entrar Em Contato Comigo : enfotec.eletronica@gmail.com
-
-<!---
-dumprino/dumprino é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
+- 👀 Meus interesses são: PHP, PYTHON, JAVA, HTML E CSS ...
+- 🌱 Actualmente estoy aprendiendo: PHP, JAVA, PYTHON, CSS ...
+- 💞️ Busco colaborar nas linguágens que eu estou aprendendo ...
+- 📫 Cómo contactarme: pandinhasmg@gmail.com
